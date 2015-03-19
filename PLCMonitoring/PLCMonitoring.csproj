@@ -82,7 +82,7 @@
       <HintPath>..\..\CodeProject\wpf-notifyicon\NotifyIconWpf\bin\Debug\Hardcodet.Wpf.TaskbarNotification.dll</HintPath>
     </Reference>
     <Reference Include="MainSms">
-      <HintPath>..\..\..\..\..\Downloads\MainSms.dll</HintPath>
+      <HintPath>..\Additional_dll's\MainSms.dll</HintPath>
     </Reference>
     <Reference Include="OpcNetApi, Version=1.30.3.0, Culture=neutral, PublicKeyToken=9a40e993cbface53">
       <SpecificVersion>False</SpecificVersion>
